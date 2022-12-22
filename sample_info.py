@@ -11,10 +11,10 @@ CACHE_TIME = 300
 USE_CAPTION_FILTER = False
 
 # Admins, Channels & Users
-ADMINS = [12345789, 'admin123', 98765432]
-CHANNELS = [-10012345678, -100987654321, 'channelusername']
+ADMINS = [855527704, 'admin123', 98765432]
+CHANNELS = [-1001792199905 -1001795396839, 'channelusername']
 AUTH_USERS = []
-AUTH_CHANNEL = None
+AUTH_CHANNEL = -1001201354951
 
 # MongoDB information
 DATABASE_URI = "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb]?retryWrites=true&w=majority"
