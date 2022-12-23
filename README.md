@@ -53,7 +53,7 @@
 - [x] Auto Delete
 - [x] And More...
 
-<b>To know about all features, Join our <a href='https://telegram.me/DQ_The_File_Donor_Updates'>updates channel</a>.</b>
+<b>To know about all features, Join our <a href='https://telegram.me/Maverikupdates'>updates channel</a>.</b>
 
 ## Commands
 ```
@@ -115,7 +115,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/Maverick860608/nishu07">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -131,7 +131,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=koyeb&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/JMaverick860608/nishu07&branch=koyeb&name=Maveriicckkk)
 </details>
 <details><summary>Deploy To VPS</summary>
 <p>
@@ -148,9 +148,9 @@ python3 bot.py
 <hr>
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Maveriicckkk-Devs](https://img.shields.io/static/v1?label=@Maveriicckkk&message=devs&color=critical)](https://telegram.dog/MaveriicckkkDevs)
+* [![Maveriicckkk](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Maveriicckkk)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Maveriicckkk)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
