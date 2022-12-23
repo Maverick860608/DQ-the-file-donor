@@ -7,14 +7,14 @@ Ye Hai Help For My Commands."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/maveriicckkk>Team Movies Masti Magic</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://studio.mogenius.com'>Mᴏɢᴇɴɪᴜs</a>
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
+✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
+✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏDB</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://studio.mogenius.com'>ᴍᴏɢᴇɴɪᴜs</a>
+✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ ꜱᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Maverick860608/Harsh">/Harsh</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Maverick860608/Harsh">/github.com/Maverick860608/Harsh</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/Maveriicckkk">@Maveriicckkk</a></b>"""
 
