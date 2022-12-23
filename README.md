@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://telegra.ph/file/0105e28d5e618a4dadeaf.jpg" alt="Team Movies Masti Magic Logo">
 </p>
 <h1 align="center">
-  <b>DQ-The-File-Donor Bot</b>
+  <b>@Maveriicckkk_BOT</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DQ-The-File-Donor!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mavericksworldd!;Created+by+@Maveriicckkk!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
-[![Stars](https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?style=flat-square&color=yellow)](https://github.com/Joelkb/DQ-The-File-Donor/stargazers)
-[![Forks](https://img.shields.io/github/forks/Joelkb/DQ-The-File-Donor?style=flat-square&color=orange)](https://github.com/Joelkb/DQ-The-File-Donor/fork)
-[![Size](https://img.shields.io/github/repo-size/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Joelkb/DQ-The-File-Donor)   
-[![Contributors](https://img.shields.io/github/contributors/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Joelkb/DQ-The-File-Donor/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Joelkb/DQ-The-File-Donor.svg)](https://stars.medv.io/Joelkb/DQ-The-File-Donor)
-
+[![Stars](https://img.shields.io/github/stars/Maverick860608/nishu07?style=flat-square&color=yellow)](https://github.com/Maverick860608/nishu07/stargazers)
+[![Forks](https://img.shields.io/github/forks/Maverick860608/nishu07?style=flat-square&color=orange)](https://github.com/Maverick860608/nishu07/fork)
+[![Size](https://img.shields.io/github/repo-size/Maverick860608/nishu07?style=flat-square&color=green)](https://github.com/Maverick860608/nishu07/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Maverick860608/nishu07)   
+[![Contributors](https://img.shields.io/github/contributors/Maverick860608/nishu07?style=flat-square&color=green)](https://github.com/Maverick860608/nishu07/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Maverick860608/nishu07/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Maverick860608/nishu07.svg)](https://stars.medv.io/Maverick860608/nishu07)
 ## Features
 - [x] IMDB Template Set
 - [x] Indexes Files above 2GB
