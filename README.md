@@ -157,7 +157,7 @@ python3 bot.py
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
  - Thanks To All Everyone In This Journey
- - Thanks To [Maveriicckkk24*7](https://raw.githubusercontent.com/Maveriicckkk24_bot) for their awesome [Maveriicckkk24*7](https://raw.githubusercontent.com/Maverick860608/nishu07)
+ - Thanks To [@Maveriicckkk](https://raw.githubusercontent.com/Maveriicckkk24_bot) for their awesome bot [Maveriicckkk24*7](https://raw.githubusercontent.com/Maverick860608/nishu07)
  - Thanks To Me 😂
 
 ## Note 🏷️
